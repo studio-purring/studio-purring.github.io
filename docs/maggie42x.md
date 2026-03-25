@@ -44,12 +44,16 @@ Maggie42xは全42キー、分割型の自作キーボードです。
    ![pcb](./images/IMG_1649.jpg)
 1. Seeed Studio XIAO nRF52840をはんだ付けします。
    付属のピンを通したり、クリップで挟むなど仮固定してからはんだ付けをしてください。
+   ![set](./images/xiaoble_set.jpg)
    ![solder](./images/42x_solder2.jpg)
    裏側からも2カ所をはんだづけする必要があります。
    基板の穴にはんだごての先を入れ、はんだを流し込んでください。
+   ![land](./images/xiaoble_backside.jpg)
    ランド(nRF52840裏の接点)と穴の端が接続されていることを確認してください。
    ![solder](./images/42x_solder3.jpg)
-1. 電池ボックスをネジ止めし、半田付けします。
+1. 電池ボックスをネジ止めしてから、半田付けします。あまったピンはペンチなどで切り取ります。
+   ![box](./images/42x_aabox.jpg)
+   ![solder](./images/42x_box_solder.jpg)
    
 1. ソケットをはんだ付けします。  
    MXスイッチ用のソケットは上側、Chocスイッチ用のソケットは下側に設置します。  
